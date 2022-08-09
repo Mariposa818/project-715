@@ -65,6 +65,7 @@ a:visited {
 }
 .v_text_input {
   font-size: 20px;
+  font-family: 'Do Hyeon';
 }
 .loginHead {
   font-size: 24px;
@@ -73,6 +74,7 @@ a:visited {
   margin: auto;
   text-align: center;
   padding-top: 123px;
+  font-family: 'Do Hyeon';
 }
 .footer {
   border-top: 1px solid #cccccc;
@@ -94,6 +96,7 @@ a:visited {
   margin-top: 10px;
   width: 388px;
   height: 96px;
+  font-family: 'Do Hyeon';
 }
 .loginButton > input {
   width: 388px;
@@ -101,6 +104,7 @@ a:visited {
   font-size: 24px;
   border-radius: 2px;
   background-color: #658ef8;
+  font-family: 'Do Hyeon';
 }
 .findButtons > .findButtonLists {
   display: flex;

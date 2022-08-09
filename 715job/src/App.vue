@@ -8,7 +8,7 @@
             class="shrink hidden-sm-and-down"
             contain
             min-width="100"
-            src="./assets/715Job-white.png"
+            src="./assets/715Job-black.png"
             width="150"
           />
         </div>

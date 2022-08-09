@@ -21,3 +21,9 @@
   /* height: 850px; */
   transition-duration: 0.5s;
 }
+
+/* Main Contents Font */
+@import url('https://fonts.googleapis.com/css2?family=Do+Hyeon&display=swap');
+/* .body {
+  font-family: 'Do Hyeon';
+} 여기에 전체 적용할 폰트 작성*/

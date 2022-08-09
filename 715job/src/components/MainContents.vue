@@ -2,10 +2,11 @@
   <div>
     <div class="main-text">
       <h1>PKNU SME 가온관 715호 사용규칙</h1>
+      <br>
         <p>팀 프로젝트 및 세미나 진행을 위한 협업룸으로 사용됩니다!</p>
         <p>함께 사용하고자 하는 공간이 필요한 학생이라면 누구나 예약 후 사용하실 수 있습니다.</p>
       <br>
-      <h2 class="bold">사용 규칙</h2>
+      <h1>사용 규칙</h1>
       <br>
         <p>1. 대학원생은 사용 7일 전부터, 학부생은 사용 2일 전부터 예약이 가능하다.
           <br>
@@ -42,9 +43,11 @@ export default {
 <style scoped>
 .main-text {
   margin: 48px 48px 0px 48px;
+  font-family: 'Do Hyeon';
 }
 .main-text > p {
-  font-size: 18px;
+  font-size: 15px;
+  font-family: 'Do Hyeon';
 }
 .dummy-for-calendar {
   height: 370px;
