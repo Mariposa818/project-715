@@ -10,7 +10,7 @@
         class="booknow-button"
         @click="onEmit"
         :style="{ 'font-size': '19px' }"
-        >
+      >
         Book now
       </v-btn>
     </div>
@@ -42,7 +42,7 @@ export default {
 .main-page {
   width: 100%;
   /* height: 754px; */
-  height: 70vh;
+  height: 80vh;
   vertical-align: middle;
   display: flex;
   flex-direction: column;
@@ -57,6 +57,6 @@ export default {
   font-size: 50px;
   margin-bottom: 100px;
   color: #002448;
-  text-shadow:1px 1px 2px #3A5079;
+  text-shadow: 1px 1px 2px #3a5079;
 }
 </style>

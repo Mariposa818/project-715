@@ -29,7 +29,6 @@
         </div>
       </div>
     </div>
-    <div class="footer">footer</div>
   </div>
 </template>
 <script>
@@ -65,7 +64,6 @@ a:visited {
 }
 .v_text_input {
   font-size: 20px;
-  font-family: 'Do Hyeon';
 }
 .loginHead {
   font-size: 24px;
@@ -74,11 +72,6 @@ a:visited {
   margin: auto;
   text-align: center;
   padding-top: 123px;
-  font-family: 'Do Hyeon';
-}
-.footer {
-  border-top: 1px solid #cccccc;
-  text-align: center;
 }
 .loginContents {
   margin-top: 98px;
@@ -96,7 +89,6 @@ a:visited {
   margin-top: 10px;
   width: 388px;
   height: 96px;
-  font-family: 'Do Hyeon';
 }
 .loginButton > input {
   width: 388px;
@@ -104,7 +96,6 @@ a:visited {
   font-size: 24px;
   border-radius: 2px;
   background-color: #658ef8;
-  font-family: 'Do Hyeon';
 }
 .findButtons > .findButtonLists {
   display: flex;
